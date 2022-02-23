@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "sass": "sass scss:css --watch --style=compressed"
+  },
+  "dependencies": {
+    "leaflet": "^1.7.1",
+    "sass": "^1.49.8"
+  }
+}
