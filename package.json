@@ -3,6 +3,7 @@
     "sass": "sass scss:css --watch --style=compressed"
   },
   "dependencies": {
+    "geoportal-extensions-leaflet": "^2.1.8",
     "leaflet": "^1.7.1",
     "sass": "^1.49.8"
   }

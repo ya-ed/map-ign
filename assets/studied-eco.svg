@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="36" height="46" viewBox="0 0 36 46">
+  <g id="Groupe_64" data-name="Groupe 64" transform="translate(-1097 -349)">
+    <rect id="Rectangle_49" data-name="Rectangle 49" width="36" height="36" rx="4" transform="translate(1097 349)" fill="#265162"/>
+    <g id="thin-arrow-cycle-loop-svgrepo-com" transform="translate(1100.604 354.145)">
+      <g id="Groupe_15" data-name="Groupe 15" transform="translate(13.511 4)">
+        <path id="Tracé_237" data-name="Tracé 237" d="M19.427,12.855a.8.8,0,0,1-.62-.266L15.266,9.047a.856.856,0,0,1,0-1.24l3.542-3.542a.877.877,0,1,1,1.24,1.24L17.125,8.427l2.922,2.922a.856.856,0,0,1,0,1.24A.8.8,0,0,1,19.427,12.855Z" transform="translate(-15 -4)" fill="#fff"/>
+      </g>
+      <g id="Groupe_16" data-name="Groupe 16" transform="translate(2 7.542)">
+        <path id="Tracé_238" data-name="Tracé 238" d="M19.71,22.168H9.084A7.084,7.084,0,0,1,9.084,8h1.771a.837.837,0,0,1,.885.885.837.837,0,0,1-.885.885H9.084a5.313,5.313,0,1,0,0,10.626H19.71a5.313,5.313,0,0,0,0-10.626H14.4a.837.837,0,0,1-.885-.885A.837.837,0,0,1,14.4,8H19.71a7.084,7.084,0,0,1,0,14.168Z" transform="translate(-2 -8)" fill="#fff"/>
+      </g>
+    </g>
+    <path id="Polygone_36" data-name="Polygone 36" d="M5.106,1.789a1,1,0,0,1,1.789,0l4.382,8.764A1,1,0,0,1,10.382,12H1.618a1,1,0,0,1-.894-1.447Z" transform="translate(1121 395) rotate(180)" fill="#265162"/>
+  </g>
+</svg>

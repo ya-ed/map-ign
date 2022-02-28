@@ -6,14 +6,51 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="css/main.css">
-    <title>Document</title>
+    <link rel="stylesheet" href="node_modules/leaflet/dist/leaflet.css" />
+    <link rel="stylesheet" href="node_modules/geoportal-extensions-leaflet/dist/GpPluginLeaflet.css" />
+
+
+    <title>Anval | Map Interactive</title>
 </head>
 
 <body>
     <div class="container">
+        <div id="map" class="mapbox">
+        </div>
 
+        <form action="" method="post">
+            <label for="latitude">
+                Latitude
+                <input type="text" name="latitude" id="lat-field">
+            </label>
+            <label for="longitude">
+                Longitude
+                <input type="text" name="longitude" id="long-field">
+            </label>
+            <select name="work-state" id="state-select">
+                <option value="">--Sélectionnez un état--</option>
+                <option value="done">Réalisé</option>
+                <option value="planned">Programmé</option>
+                <option value="studied">À l'étude</option>
+            </select>
+            <select name="work-type" id="type-select">
+                <option value="">--Sélectionnez un type--</option>
+                <option value="Étude">Étude</option>
+                <option value="Restoration hydromorphologique">Restoration hydromorphologique</option>
+                <option value="Continuité écologique">Continuité écologique</option>
+                <option value="Entretien végétation">Entretien végétation</option>
+                <option value="Création zone tampon">Création zone tampon</option>
+                <option value="Restoration zone humide">Restoration zone humide</option>
+                <option value="Traitement des espèces envahissantes">Traitement des espèces envahissantes</option>
+                <option value="Plantation de haies">Plantation de haies</option>
+            </select>
+            <button type="submit" id="icon-submit">Valider</button>
+        </form>
+        <!-- TODO : Filter bloc -->
     </div>
 </body>
-<script src="js/main.js"></script>
+<script src="node_modules/leaflet/dist/leaflet.js"></script>
+<script src="node_modules/geoportal-extensions-leaflet/dist/GpPluginLeaflet.js"></script>
+<script src="js/map.js"></script>
 
 </html>

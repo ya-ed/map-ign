@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="36" height="46" viewBox="0 0 36 46">
+  <g id="Groupe_71" data-name="Groupe 71" transform="translate(-961 -27)">
+    <rect id="Rectangle_62" data-name="Rectangle 62" width="36" height="36" rx="4" transform="translate(961 27)" fill="#01c88e"/>
+    <g id="microscope-svgrepo-com" transform="translate(957.808 23.566)">
+      <g id="Groupe_37" data-name="Groupe 37" transform="translate(11 11)">
+        <path id="Tracé_250" data-name="Tracé 250" d="M31,59.858H27.039c3.633-3.458,3.5-8.015.434-11.3l2.364-2.389a.866.866,0,0,0,0-1.222L27.222,42.3a.89.89,0,0,0-1.235,0l-7.159,7.231a.866.866,0,0,0,0,1.222l.7.711-1.963,1.985a.87.87,0,0,0,1.239,1.222L20.757,52.7l.69.7a.866.866,0,0,0,1.235,0l3.569-3.607a5.884,5.884,0,0,1-.217,8.628,6.782,6.782,0,0,1-2.087,1.439H11.869a.869.869,0,1,0,0,1.738H31a.869.869,0,0,0,0-1.738Zm-8.935-8.309-1.393-1.41,5.933-6L28,45.553Z" transform="translate(-11 -40.728)" fill="#fff"/>
+        <path id="Tracé_251" data-name="Tracé 251" d="M425.225,13.551a.87.87,0,1,0,1.231-1.231l-1.069-1.065a.87.87,0,0,0-1.231,1.231Z" transform="translate(-406.315 -11)" fill="#fff"/>
+        <path id="Tracé_252" data-name="Tracé 252" d="M92.169,384.338h3.071a.869.869,0,1,0,0-1.738H92.169a.869.869,0,1,0,0,1.738Z" transform="translate(-87.88 -366.774)" fill="#fff"/>
+      </g>
+    </g>
+    <path id="Polygone_44" data-name="Polygone 44" d="M5.106,1.789a1,1,0,0,1,1.789,0l4.382,8.764A1,1,0,0,1,10.382,12H1.618a1,1,0,0,1-.894-1.447Z" transform="translate(985 73) rotate(180)" fill="#01c88e"/>
+  </g>
+</svg>
